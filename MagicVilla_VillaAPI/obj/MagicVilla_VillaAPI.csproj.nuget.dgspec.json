@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\huuto\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj": {}
+    "/Users/DuckieChu/Desktop/VillaAPI/MagicVilla_VillaAPI/MagicVilla_VillaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\huuto\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj": {
+    "/Users/DuckieChu/Desktop/VillaAPI/MagicVilla_VillaAPI/MagicVilla_VillaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\huuto\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
+        "projectUniqueName": "/Users/DuckieChu/Desktop/VillaAPI/MagicVilla_VillaAPI/MagicVilla_VillaAPI.csproj",
         "projectName": "MagicVilla_VillaAPI",
-        "projectPath": "C:\\Users\\huuto\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
-        "packagesPath": "C:\\Users\\huuto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\huuto\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\obj\\",
+        "projectPath": "/Users/DuckieChu/Desktop/VillaAPI/MagicVilla_VillaAPI/MagicVilla_VillaAPI.csproj",
+        "packagesPath": "/Users/DuckieChu/.nuget/packages/",
+        "outputPath": "/Users/DuckieChu/Desktop/VillaAPI/MagicVilla_VillaAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\huuto\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/DuckieChu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -80,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
